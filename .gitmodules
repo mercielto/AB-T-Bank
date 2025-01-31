@@ -1,0 +1,3 @@
+[submodule "fractal-flame"]
+	path = fractal-flame
+	url = https://github.com/mercielto/fractal-flame.git
