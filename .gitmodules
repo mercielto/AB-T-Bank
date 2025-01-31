@@ -7,3 +7,6 @@
 [submodule "maze-generator"]
 	path = maze-generator
 	url = https://github.com/mercielto/maze-generator.git
+[submodule "hangman-game"]
+	path = hangman-game
+	url = https://github.com/mercielto/hangman-game.git
