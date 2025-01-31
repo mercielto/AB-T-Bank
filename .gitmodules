@@ -1,3 +1,6 @@
 [submodule "fractal-flame"]
 	path = fractal-flame
 	url = https://github.com/mercielto/fractal-flame.git
+[submodule "log-analyzer"]
+	path = log-analyzer
+	url = https://github.com/mercielto/log-analyzer.git
