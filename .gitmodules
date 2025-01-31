@@ -4,3 +4,6 @@
 [submodule "log-analyzer"]
 	path = log-analyzer
 	url = https://github.com/mercielto/log-analyzer.git
+[submodule "maze-generator"]
+	path = maze-generator
+	url = https://github.com/mercielto/maze-generator.git
